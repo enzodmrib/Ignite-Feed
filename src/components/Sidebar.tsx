@@ -15,7 +15,7 @@ export function Sidebar() {
 
                 <Avatar src="https://github.com/enzodmrib.png" />
 
-                <strong>Diego Fernandes</strong>
+                <strong>Enzo Ribeiro</strong>
                 <span>Web Developer</span>
             </div>
 
